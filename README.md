@@ -99,9 +99,7 @@ The tool runs locally on your machine. It only communicates with your local emul
 
 Ready to purchase or have questions?
 
-*   **WhatsApp:** [+62 8xx-xxxx-xxxx]
-*   **Telegram:** [@your_username]
-*   **Email:** [business@example.com]
+*   **Telegram:** [@rhmd15](https://t.me/rhmd15)
 
 ---
 
